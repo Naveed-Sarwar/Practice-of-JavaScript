@@ -1,0 +1,10 @@
+.change{
+    color: rgb(68, 96, 255);
+    border: 1px solid black;
+}
+p{
+    text-indent: 10px;
+}
+input{
+    appearance: password;
+}
